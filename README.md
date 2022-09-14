@@ -22,9 +22,9 @@
 - Uh huh.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ThVe4xvNZwI"
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ajH1jlR_ziM"
    target="_blank">
-<img src="http://img.youtube.com/vi/ThVe4xvNZwI/0.jpg"
+<img src="http://img.youtube.com/vi/ajH1jlR_ziM/0.jpg"
      alt="IMAGE ALT TEXT HERE"
      width="240"
      height="180"
