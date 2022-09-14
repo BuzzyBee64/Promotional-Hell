@@ -10,7 +10,7 @@
 
 - [x] (you did this!)
 
-- <del> Stabbed through the heart </del>
+[x] <del> Stabbed through the heart </del>
 
 
 # To Do, And what to do.
