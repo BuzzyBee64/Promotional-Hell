@@ -1,17 +1,22 @@
 # Promotional-Hell
 
-## Redminders (Awesomely spelled)
-
-- [ ] <- holy moly this box is EMPTY.
-- [x] <- holy moly this box is x'd!
-- <del> [x] delete this. </del>
-
--
-
----
 
 
-# To Do List
 
 
----
+# A fool's reminders
+
+- [ ] (Hey do this!)
+
+- [x] (you did this!)
+
+- <del> Stabbed through the heart </del>
+
+
+# To Do, And what to do.
+
+- Yeah.
+
+- Yope
+
+- Uh huh.
